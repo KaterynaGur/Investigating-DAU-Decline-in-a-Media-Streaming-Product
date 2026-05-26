@@ -14,5 +14,5 @@ Do paying and non-paying users behave differently?
 Could the monetization model contribute to weaker long-term engagement?
 
 ## Project Links
-Full case study in Notion: [link] (https://www.notion.so/Investigating-DAU-Decline-in-a-Media-Streaming-Product-2025-05-07-2026-05-06-36ca3832b6ca800d862cf7f53fe7dfaf?source=copy_link)
+Full case study in Notion: [link](https://www.notion.so/Investigating-DAU-Decline-in-a-Media-Streaming-Product-2025-05-07-2026-05-06-36ca3832b6ca800d862cf7f53fe7dfaf?source=copy_link)
 Live Amplitude dashboard: available upon request
