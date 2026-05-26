@@ -1,11 +1,11 @@
-### Investigating DAU Decline in a Media Streaming Product
+## Investigating DAU Decline in a Media Streaming Product
 
-## Project Overview
+### Project Overview
 
 This project investigates a decline in daily active users in a media streaming product using Amplitude.
 The goal of the analysis was to understand whether the drop was caused mainly by weaker user acquisition, poor long-term retention, engagement decay, or possible monetization friction.
 
-## The project focuses on product analytics questions such as:
+### The project focuses on product analytics questions such as:
 
 1. Are fewer users entering the product over time?
 2. Do users continue engaging with the product after the first few days?
@@ -13,7 +13,7 @@ The goal of the analysis was to understand whether the drop was caused mainly by
 4. Do paying and non-paying users behave differently?
 5. Could the monetization model contribute to weaker long-term engagement?
 
-## Project Links
+### Project Links
 Full case study in Notion: [link](https://www.notion.so/Investigating-DAU-Decline-in-a-Media-Streaming-Product-2025-05-07-2026-05-06-36ca3832b6ca800d862cf7f53fe7dfaf?source=copy_link)
 
 Live Amplitude dashboard: available upon request
