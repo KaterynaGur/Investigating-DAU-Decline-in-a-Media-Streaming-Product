@@ -13,7 +13,12 @@ The goal of the analysis was to understand whether the drop was caused mainly by
 4. Do paying and non-paying users behave differently?
 5. Could the monetization model contribute to weaker long-term engagement?
 
-### Project Links
-Full case study in Notion: [link](https://www.notion.so/Investigating-DAU-Decline-in-a-Media-Streaming-Product-2025-05-07-2026-05-06-36ca3832b6ca800d862cf7f53fe7dfaf?source=copy_link)
+### Tools Used
 
-Live Amplitude dashboard: available upon request
+- Amplitude
+- Notion
+
+### Project Links
+Full case study in Notion: [View project](https://www.notion.so/Investigating-DAU-Decline-in-a-Media-Streaming-Product-2025-05-07-2026-05-06-36ca3832b6ca800d862cf7f53fe7dfaf?source=copy_link)
+
+Live Amplitude dashboard: available upon request, as access to the demo workspace is restricted.
